@@ -1,7 +1,5 @@
 # 📊 Summary of Learning: Exploratory Data Analysis & Hypothesis Testing with R
 
-Dalam project ini, saya belajar dan mempraktikkan tahapan-tahapan dasar **Exploratory Data Analysis (EDA)** dan **pengujian hipotesis statistik** menggunakan bahasa pemrograman **R**. Dataset yang digunakan berisi data pelanggan dengan berbagai informasi seperti **pendapatan**, **jenis kelamin**, **produk**, **total belanja**, dan **tingkat kepuasan pelanggan**.
-
 ---
 
 ## 📌 Tahapan Analisis
