@@ -116,8 +116,11 @@ Dari ketiga analisis tersebut dapat disimpulkan bahwa:
 
 ### Rekomendasi:
 ✅ **Fokus segmentasi pada pendapatan pelanggan**
+
 ✅ **Perdalam riset kepuasan pelanggan**
+
 ✅ **Tidak perlu pemisahan strategi berdasarkan gender**
+
 ✅ **Pertimbangkan analisis lebih lanjut dengan variabel tambahan**
 
 ---
