@@ -105,7 +105,7 @@ boxplot antara variabel jenis kelamin dengan total belanja (1:laki-laki, 2:perem
 
 ---
 
-### 🔎 Kesimpulan:
+## 🔎 Kesimpulan:
 Dari ketiga analisis tersebut dapat disimpulkan bahwa:
 
 ✅ **Pendapatan memiliki hubungan signifikan dengan total belanja**  
@@ -114,7 +114,7 @@ Dari ketiga analisis tersebut dapat disimpulkan bahwa:
 
 ---
 
-### Rekomendasi:
+## Rekomendasi:
 
   ✅ **Fokus segmentasi pada pelanggan dengan pendapatan lebih tinggi**
   
