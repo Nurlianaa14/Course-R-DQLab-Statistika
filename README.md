@@ -104,6 +104,14 @@ Dari ketiga analisis tersebut dapat disimpulkan bahwa:
 
 ---
 
+### Rekomendasi:
+✅ Fokus segmentasi pada pendapatan pelanggan
+✅ Perdalam riset kepuasan pelanggan
+✅ Tidak perlu pemisahan strategi berdasarkan gender
+✅ Pertimbangkan analisis lebih lanjut dengan variabel tambahan
+
+---
+
 ## 🚀 Tools dan Package yang Digunakan
 
 - **R** (Base R)
@@ -111,7 +119,7 @@ Dari ketiga analisis tersebut dapat disimpulkan bahwa:
 
 ---
 
-## 📚 Skill yang Saya Dapatkan dari Project Ini
+## 📚 Pemahaman dan skill yang Saya Dapatkan dari Project Ini
 
 - Memahami konsep dasar **EDA (Exploratory Data Analysis)**.
 - Mampu melakukan **data preparation** sesuai kebutuhan analisis.
