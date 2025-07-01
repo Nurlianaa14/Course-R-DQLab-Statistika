@@ -133,7 +133,7 @@ Dari ketiga analisis tersebut dapat disimpulkan bahwa:
 
 ---
 
-## 📚 Pemahaman dan skill yang Saya Dapatkan dari Project Ini
+## 📚 Pemahaman dan skill yang Saya Dapatkan dari pembelajaran Ini
 
 - Memahami konsep dasar **EDA (Exploratory Data Analysis)**.
 - Mampu melakukan **data preparation** sesuai kebutuhan analisis.
