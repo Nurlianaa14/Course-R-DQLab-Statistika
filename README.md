@@ -41,6 +41,11 @@ Hipotesis yang dibangun berdasarkan data:
 
 #### a) Hubungan Pendapatan dengan Total Belanja
 
+scatter plot hubungan dari  Pendapatan dengan Total Belanja
+
+<img width="335" alt="48cfd0d9-96eb-4b67-b7c1-2360643bfcc3" src="https://github.com/user-attachments/assets/0dfc0f58-b838-4081-ba17-d46d4145f910" />
+
+
 - **Hipotesis:**
   - **H0:** Tidak ada hubungan antara pendapatan dan total belanja.
   - **H1:** Ada hubungan antara pendapatan dan total belanja.
@@ -77,6 +82,11 @@ Hipotesis yang dibangun berdasarkan data:
 ---
 
 #### c) Hubungan Jenis Kelamin dengan Total Belanja
+
+boxplot antara variabel jenis kelamin dengan total belanja (1:laki-laki, 2:perempuan)
+
+<img width="335" alt="6420df09-31c6-4358-8002-bedd574832c0" src="https://github.com/user-attachments/assets/890cad4a-d417-4b9e-ae20-c09764145c5c" />
+
 
 - **Hipotesis:**
   - **H0:** Tidak ada perbedaan rata-rata total belanja antara laki-laki dan perempuan.
