@@ -115,11 +115,11 @@ Dari ketiga analisis tersebut dapat disimpulkan bahwa:
 ---
 
 ### Rekomendasi:
-
-✅ **Fokus segmentasi pada pelanggan dengan pendapatan lebih tinggi**
-✅ **Perdalam riset kepuasan pelanggan**
-✅ **Tidak perlu pemisahan strategi berdasarkan gender**
-✅ **Lakukan analisis lanjutan dengan variabel tambahan**
+-
+  ✅ **Fokus segmentasi pada pelanggan dengan pendapatan lebih tinggi**
+  ✅ **Perdalam riset kepuasan pelanggan**
+  ✅ **Tidak perlu pemisahan strategi berdasarkan gender**
+  ✅ **Lakukan analisis lanjutan dengan variabel tambahan**
 
 ---
 
