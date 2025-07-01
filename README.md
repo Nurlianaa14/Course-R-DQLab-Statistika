@@ -1,4 +1,4 @@
-# 📊 Summary of Learning: Exploratory Data Analysis & Hypothesis Testing with R
+# 📊 Summary of Learning: Statistics using R for Data Science
 
 ---
 
